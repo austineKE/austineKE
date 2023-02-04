@@ -1,4 +1,3 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDgUKd2bDdlUEqeunze7qV4CCq-DS9jkrXfw&usqp=CAU)
 <h1 align="center">Hi there👋, I'm Austine Wamalwa</h1>
 <h3 align="center">A passionate and professional full stack developer from Kenya</h3>
 
